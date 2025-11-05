@@ -1,56 +1,56 @@
-# Disclaimer:
+### Disclaimer:
 
-# 
+### 
 
-# This repository contains my personal handwritten notes and interpretations of various 3GPP Release 15 Physical Layer concepts, including:
+##### This repository contains my personal handwritten notes and interpretations of various 3GPP Release 15 Physical Layer concepts, including:
 
-# 
+##### 
 
-# CRC
+##### **CRC**
 
-# 
+##### 
 
-# Channel Coding
+##### **Channel Coding**
 
-# 
+##### 
 
-# Rate Matching
+##### **Rate Matching**
 
-# 
+##### 
 
-# Sequence Generation
+##### **Sequence Generation**
 
-# 
+##### 
 
-# Scrambling
+##### **Scrambling**
 
-# 
+##### 
 
-# Modulation
+##### **Modulation**
 
-# 
+##### 
 
-# Synchronization Signal Burst (SSBurst)
+##### **Synchronization Signal Burst (SSBurst)**
 
-# 
+##### 
 
-# Downlink and Uplink Control / Shared Channels
+##### **Downlink and Uplink Control / Shared Channels**
 
-# 
+##### 
 
-# CSI-RS, SRS, PTRS
+##### **CSI-RS, SRS, PTRS**
 
-# 
+##### 
 
-# HARQ
+##### **HARQ**
 
-# 
+##### 
 
-# Timing Advance
+##### **Timing Advance**
 
-# 
+##### 
 
-# These notes reflect my understanding of the 3GPP specifications and are intended purely for learning and reference purposes.
+##### These notes reflect my understanding of the 3GPP specifications and are intended purely for learning and reference purposes.
 
-# Some interpretations may differ from the standard or other sources — if you find any inconsistencies or errors, please raise an issue in the repository. I’ll review and address them as soon as possible.
+##### Some interpretations may differ from the standard or other sources — if you find any inconsistencies or errors, please raise an issue in the repository. I’ll review and address them as soon as possible.
 
